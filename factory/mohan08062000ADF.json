@@ -1,0 +1,15 @@
+{
+	"name": "mohan08062000ADF",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "60118a96-e5e5-4260-970c-c69f3d01583e",
+		"tenantId": "da8c42f0-0f6e-4c9f-8c80-1e84cc21d6fb"
+	}
+}
